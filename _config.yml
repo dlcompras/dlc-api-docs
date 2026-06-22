@@ -1,0 +1,6 @@
+title: DLC - API
+description: Documentação pública da API DL Compras.
+theme: jekyll-theme-cayman
+
+# Mostra os arquivos .md como páginas navegáveis
+markdown: kramdown
