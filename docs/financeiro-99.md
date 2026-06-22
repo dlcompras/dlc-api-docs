@@ -1,4 +1,4 @@
-# API Financeira 99 - Documentação para Cliente
+# API Financeira 99 - Documentação
 
 Esta API permite consultar dados financeiros da 99 por meio da DL Compras.
 
